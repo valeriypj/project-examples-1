@@ -3,10 +3,6 @@
   {
       "pattern": "libs-snapshot-local/*(Pipeline).zip",
       "props": "p1=v1;p2=v2"
-    },
-    {
-      "pattern": "libs-snapshot-local/*.zip",
-      "props": "p4=v4;p5=v5"
     }
  ]
 }
